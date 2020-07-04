@@ -28,7 +28,7 @@
 	font-size: 30px;
 	text-align: center;
 	position: relative;
-	text-decoration: underline;
+	text-decoration: underline overline;
 }
 .intro{
 	color: white;
