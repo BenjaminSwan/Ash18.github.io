@@ -20,8 +20,14 @@
   color:rgb(255,105,180);
 }
 .title-head {
-	color: rgb(191,0,255) ;
-	position: center; 
+	color: rgb (191,0,255);
+	font-family: impact;
 	margin-top: -100px;
-	font-size:22px;
+	margin: 50px auto;
+	font-size: 701wpx;
+	max-width: 600px;
+	font-size: 70px;
+	text-align: center;
+	position: relative;
+	text-decoration: overline underline;
 }
