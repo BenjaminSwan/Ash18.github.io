@@ -16,8 +16,8 @@
   display: table;
 }
 .btn-group button:hover {
-  background-color: white;
-  color:black;
+  background-color: purple;
+  color:rgb(255,105,180);
 }
 h1 {
 	color: rgb(191,0,255) ;
