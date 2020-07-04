@@ -1,4 +1,25 @@
-h1{
+.btn-group button {
+  background-color: black;
+  border: 10px blue; 
+  color: white; 
+  font-size: 20px;
+  padding: 10px 15px; 
+  cursor: pointer; 
+  float: left; 
+}
+.btn-group button:not(:last-child) {
+  border-right: none; 
+}
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.btn-group button:hover {
+  background-color: white;
+  color:black;
+}
+h1 {
 	color: rgb(191,0,255) ;
 	position: center; 
 	margin-top: -100px;
