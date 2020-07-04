@@ -21,7 +21,7 @@
 }
 .title-head {
 	color: rgb(191,0,255);
-	font-family: impact;
+	font-family: gatha sans;
 	margin-top: -100px;
 	margin: 50px auto;
 	max-width: 600px;
@@ -29,26 +29,6 @@
 	text-align: center;
 	position: relative;
 	text-decoration: overline underline;
-}
-.title-head:before{
-	content:"";
-	display:block;
-	width: 70px;
-	height: 5px;
-	background: white;
-	position: absolute;
-	left: 0;
-	top:50%;
-}
-.title-head:after{
-	content:"";
-	display:block;
-	width: 70px;
-	height: 5px;
-	background: white;
-	position: absolute;
-	right:0;
-	top:50%;
 }
 h2 {
 	color: white;
