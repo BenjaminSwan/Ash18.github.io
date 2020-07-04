@@ -30,3 +30,32 @@
 	position: relative;
 	text-decoration: overline underline;
 }
+.title-head:before{
+	content:"";
+	display:block;
+	width: 70px;
+	height: 5px;
+	background: white;
+	position: absolute;
+	left: 0;
+	top:50%;
+}
+.title-head:after{
+	content:"";
+	display:block;
+	width: 70px;
+	height: 5px;
+	background: white;
+	position: absolute;
+	right:0;
+	top:50%;
+}
+h2 {
+	color: white;
+	font-family: Courier New;
+	margin: 10px auto;
+	font-size: 40px;
+	text-decoration: bold;
+	text-align: center;
+	position: relative;
+	text-decoration: ;
