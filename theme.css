@@ -20,7 +20,7 @@
   color:rgb(255,105,180);
 }
 .title-head {
-	color: rgb(191,0,255);
+	color: white;
 	font-family: impact;
 	margin-top: -100px;
 	margin: 50px auto;
@@ -35,5 +35,5 @@
 	text-align: center;
 	font-size: 16px; 
 	position: relative;
-	
+
  }
